@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1502dd7-a405-47f1-a7f1-4eecf7e6f62c" name="Default Changelist" comment="" />
+    <list default="true" id="f1502dd7-a405-47f1-a7f1-4eecf7e6f62c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IDEA\Gitee02\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,18 +27,25 @@
         <option name="userSettingsFile" value="E:\ideaMaven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1kbMITil11XQFHaLrOPcA0eOSY8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
@@ -125,17 +141,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605964757211</updated>
+      <workItem from="1605964760052" duration="537000" />
     </task>
+    <task id="LOCAL-00001" summary="jenkins">
+      <created>1605964918554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605964918554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkins" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605964773046">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605964773046" />
+    <state x="679" y="58" key="CommitChangelistDialog2" timestamp="1605964916847">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="679" y="58" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1605964916847" />
     <state x="798" y="275" key="FileChooserDialogImpl" timestamp="1605964838452">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -156,5 +189,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605964760580" />
+    <state x="611" y="267" key="Vcs.Push.Dialog.v2" timestamp="1605965291469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="611" y="267" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605965291469" />
   </component>
 </project>
